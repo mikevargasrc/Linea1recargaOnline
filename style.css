@@ -1,0 +1,73 @@
+.logo{
+
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.logo-registro{
+
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.login{
+    
+    background-color: #47aa42;
+    padding-top: 20px;
+    border-radius: 90px 0 0 0;
+}
+.colorlinea1{
+    color:#47aa42; ;
+}
+.login input{
+    
+    border-radius: 30px;
+
+}
+
+.titulo {
+
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.titulo-registro {
+
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+
+.boton{
+    border-radius: 30px;
+    background-color: #074a16;
+}
+
+
+.botonverde{
+    color: #074a16;
+    text-decoration: none;
+    
+}
+
+.ultimafila p{
+  padding-bottom: 189px;
+    margin-bottom: 0;
+
+}
+
+
+.ultimafila-registro p{
+    padding-bottom: 87px;
+    margin-bottom: 0;
+  
+  }
+
+.fondoverdeclaro{
+    background-color: #47aa42;
+    border-radius: 0 0 50px 0;
+}
+
+.fondoverdelinea1{
+    background-color: #47aa42;
+
+}
